@@ -1,0 +1,11 @@
+body{
+    background-image: url(images/dc.jpg);
+    background-size: cover;
+}
+.btn{
+    margin: 2px auto;
+    display: block;
+}
+.form-control{
+    background: transparent;
+}
